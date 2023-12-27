@@ -1,7 +1,7 @@
 - 👋 Hello Friends & Recruiters!, I’m @TaimoorHussainQureshi
 - 👀 I’m interested in Data Science, Big Data Analytics, Machine Learning and Computational Material Science.
-- 🌱 I’m currently learning Deep Learning Libraries.
-- 💞️ I’m looking to collaborate on Compuational Material Science
+- 🌱 I’m currently learning different types of Neural Networks and Generative A.I.
+- 💞️ I’m looking to collaborate on MLops, A.I and Compuational Material Science.
 - 📫 You can reach me at Linkedin or at taimoorqureshi80@gmail.com
 
 <!---
